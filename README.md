@@ -8,4 +8,7 @@ We've learned how to use VueJS to create an app that can remember your tasks
 
 ## Version data
 ### V 1.0
-Browser-only Dark Mode: Chrome, Edge and Opera
+Store notes and display them in order
+
+> [!IMPORTANT].
+> Browser-only Dark Mode: Chrome, Edge and Opera
