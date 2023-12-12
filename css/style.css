@@ -193,7 +193,7 @@ main{
     cursor: pointer;
 }
 .checkbox-round:checked {
-    background-image: url("img/check.svg");
+    background-image: url("../img/check.svg");
     background-repeat: no-repeat;
     background-size: cover; 
     border: .1rem solid green;
